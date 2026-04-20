@@ -1,0 +1,5 @@
+<dns>
+  <record name="www.example.com" ip="10.0.0.2"/>
+  <record name="downloadserver.org" ip="10.0.0.3"/>
+  <record name="uploadserver.org" ip="10.0.0.4"/>
+</dns>
